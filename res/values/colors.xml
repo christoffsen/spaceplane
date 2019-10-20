@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="orange">#F90</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#0099CC</color>
+    <color name="text">#00B5E5</color>
+    <color name="Yellow">#FFFF00</color>
+
+</resources>

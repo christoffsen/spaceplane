@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asteroids</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="singleplayer_button">Singleplayer</string>
+    <string name="multiplayer_button">Multiplayer</string>
+    <string name="settings_button">Settings</string>
+    <string name="test_button_string">Test</string>
+    <string name="settings_controller_type">Controller Type</string>
+    <string name="settings_gyroscope">Gyroscope(tilting)</string>
+    <string name="settings_physical">Physical buttons</string>
+    <string name="settings_volume">Volume</string>
+
+</resources>
